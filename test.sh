@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "selam"
+echo "selam millet"
